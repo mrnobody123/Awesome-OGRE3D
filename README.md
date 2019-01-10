@@ -1,5 +1,5 @@
 # Awsome-OGRE3D
-A curated list of awsome stuff( i'll add mostly open-source ) that mostly still works with the help of OGRE3D
+A curated list of awsome stuff( mostly open-source ) that still works with the help of OGRE3D
 
 i'm just starting with this so you're welcome to fork and edit( more info can be found at wiki.ogre3d.org )
 
