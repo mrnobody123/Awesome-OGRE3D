@@ -1,6 +1,8 @@
 # Awsome-OGRE3D
 A curated list of awsome stuff( mostly open-source ) that still works with the help of OGRE3D
 
+as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
+
 i'm just starting with this so you're welcome to fork and edit( more info can be found at wiki.ogre3d.org )
 
 links to be added...
@@ -47,7 +49,7 @@ Scythe Physics Editor
 
 dergo 
 
-fraps
+Frapper( sf )
 
 Spacescape
 
