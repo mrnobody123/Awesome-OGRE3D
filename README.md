@@ -37,8 +37,6 @@ Editors/viewers/visualization
 ------------------------------
 ogitor
 
-polyMorph
-
 openSpace3d
 
 polymorph
