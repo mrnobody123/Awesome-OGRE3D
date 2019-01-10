@@ -1,7 +1,10 @@
 # Awsome-OGRE3D
 A curated list of asome stuff made with help of OGRE3D
+
 i'm just starting with this you're welcome to fork and edit
+
 links to be added...
+
 
 Simulation
 ----------------------
@@ -14,11 +17,13 @@ rigs of rods
 
 Animation
 --------------------------
-fraps 
+frag-motion
 
 smartbody
 
-aliceBot
+ARIA-VALUSPA
+
+faceFX
 
 
 Games
@@ -40,9 +45,11 @@ polymorph
 
 Eidolon
 
-psych
+Scythe Physics Editor
 
+dergo 
 
+fraps
 
 PLUGINS
 ------------------------------
@@ -64,12 +71,25 @@ ogre-procedural
 
 SPH-cuda( snow demo on github )
 
+Particle Universe
+
 
 GUI
 ---------------------
 myGUI
 
 CEGUI
+
+import/export
+-----------------------
+blender2ogre
+
+gltf
+
+assimp-ogre
+
+fxfbx-ogre
+
 
 
 
