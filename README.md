@@ -6,46 +6,71 @@ links to be added...
 Simulation
 ----------------------
 ros
+
 gazebo
+
 rigs of rods
+
 
 Animation
 --------------------------
 fraps 
+
 smartbody
+
 aliceBot
+
 
 Games
 -----------------------------
 stunt rally
+
 Worldforge
+
 
 Editors/viewers/visualization
 ------------------------------
 ogitor
+
 polyMorph
+
 openSpace3d
+
 polymorph
+
 Eidolon
+
 psych
+
 
 
 PLUGINS
 ------------------------------
 bullet
+
 physx
+
 skyx
+
 hydrax/cl-ocean
+
 caelum
+
 scape
+
 forests
+
 ogre-procedural
+
 SPH-cuda( snow demo on github )
+
 
 GUI
 ---------------------
 myGUI
+
 CEGUI
+
 
 
 
