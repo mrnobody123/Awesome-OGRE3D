@@ -1,7 +1,7 @@
 # Awsome-OGRE3D
-A curated list of asome stuff made with help of OGRE3D
+A curated list of awsome stuff( i'll add mostly open-source ) that mostly still works with the help of OGRE3D
 
-i'm just starting with this you're welcome to fork and edit
+i'm just starting with this so you're welcome to fork and edit( more info can be found at wiki.ogre3d.org )
 
 links to be added...
 
@@ -51,6 +51,10 @@ dergo
 
 fraps
 
+Spacescape
+
+Artifex Terra
+
 PLUGINS
 ------------------------------
 bullet
@@ -90,6 +94,11 @@ assimp-ogre
 
 fxfbx-ogre
 
+game engines
+-------------------------------
+neo-axis
+
+skyline
 
 
 
