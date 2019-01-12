@@ -36,6 +36,10 @@ stunt rally https://stuntrally.tuxfamily.org/
 
 Worldforge https://www.worldforge.org/
 
+amge https://github.com/cookgreen/AMGE
+
+MyneCraft https://github.com/David-Parker/MyneCraft
+
 medical apps
 --------------------------------------------------
 Eidolon https://github.com/ericspod/Eidolon
@@ -67,6 +71,8 @@ Artifex Terra www.artifexterra.com/
 particle-universe https://github.com/spookyboo/particle-universe-editor
 
 mesh viewer https://github.com/OGRECave/ogre-meshviewer
+
+
 
 PLUGINS
 ------------------------------
@@ -100,7 +106,7 @@ Particle Universe http://wiki.ogre3d.org/Particle+Universe+plugin
 
 ogreVox https://github.com/holocronweaver/OgreVox
 
-meshMagic https://bitbucket.org/ogreaddons/meshmagick
+meshMagic https://github.com/blakharaz/meshmagick
 
 GUI
 ---------------------
@@ -120,6 +126,14 @@ fbx-ogre https://github.com/Anomalous-Software/fxogrefbx
 
 game engines
 -------------------------------
+nowa engine https://sourceforge.net/projects/nowa-engine/
+
+frankE https://github.com/devxkh/FrankE
+
+engine https://github.com/gsage/engine
+
+commercial game engines
+----------------------------------------------------------
 neo-axis
 
 skyline
