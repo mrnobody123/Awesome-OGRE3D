@@ -5,9 +5,6 @@ as their are probably a few hundrends of ogre based projects, i'll try to pick t
 
 i'm just starting with this so you're welcome to fork and edit( more info can be found at www.wiki.ogre3d.org )
 
-links to be added...
-
-
 Simulation
 ----------------------
 ros http://www.ros.org
