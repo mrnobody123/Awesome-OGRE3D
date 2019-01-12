@@ -16,6 +16,8 @@ gazebo http://gazebosim.org
 
 rigs of rods https://www.rigsofrods.org/
 
+cfmmoc- planetary terrain rendering lib( google earth look alike ): https://github.com/cfmmoc/cfmmoc
+
 
 Animation
 --------------------------
