@@ -21,7 +21,7 @@ Animation
 --------------------------
 frag-motion www.fragmosoft.com/
 
-smartbody www.smartbody.ict.usc.edu/
+smartbody http://smartbody.ict.usc.edu
 
 ARIA-VALUSPA http://aria-agent.eu
 
