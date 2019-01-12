@@ -10,92 +10,113 @@ links to be added...
 
 Simulation
 ----------------------
-ros
+ros http://www.ros.org
 
-gazebo
+gazebo http://gazebosim.org
 
-rigs of rods
+rigs of rods https://www.rigsofrods.org/
 
 
 Animation
 --------------------------
-frag-motion
+frag-motion www.fragmosoft.com/
 
-smartbody
+smartbody www.smartbody.ict.usc.edu/
 
-ARIA-VALUSPA
+ARIA-VALUSPA http://aria-agent.eu
 
-faceFX
+faceFX https://facefx.com/
+
+techno-freak animation blend nodes -https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito
 
 
 Games
 -----------------------------
-stunt rally
+stunt rally https://stuntrally.tuxfamily.org/
 
-Worldforge
+Worldforge https://www.worldforge.org/
 
+medical apps
+--------------------------------------------------
+Eidolon https://github.com/ericspod/Eidolon
+
+sight https://github.com/IRCAD-IHU/sight
 
 Editors/viewers/visualization
 ------------------------------
-ogitor
+ogitor https://bitbucket.org/ogitor/ogitor 
 
-openSpace3d
+openSpace3d www.openspace3d.com/
 
-polymorph
+apertusvr http://apertusvr.org
 
-Eidolon
+Magus - an editor for creating ogre based editors: https://github.com/spookyboo/Magus
 
-Scythe Physics Editor
+polymorph https://polymorph.cool
 
-dergo 
+Scythe Physics Editor https://sourceforge.net/projects/physicseditor/
 
-Frapper( sf )
+dergo https://bitbucket.org/dark_sylinc/dergo-blender
 
-Spacescape
+Frapper https://sourceforge.net/projects/frapper/
 
-Artifex Terra
+Spacescape http://alexcpeterson.com/spacescape/
+
+Artifex Terra www.artifexterra.com/
+
+particle-universe https://github.com/spookyboo/particle-universe-editor
+
+mesh viewer https://github.com/OGRECave/ogre-meshviewer
 
 PLUGINS
 ------------------------------
-bullet
+bullet https://bitbucket.org/alexeyknyshev/ogrebullet
 
 physx
 
-skyx
+newton
 
-hydrax/cl-ocean
+recast/detour https://bitbucket.org/ogreaddons/ogrerecast and https://bitbucket.org/ogreaddons/ogrecrowd
 
-caelum
+ccs-camera manager https://bitbucket.org/ogreaddons/ogre-ccs
 
-scape
+skyx https://bitbucket.org/ogreaddons/skyx
 
-forests
+hydrax https://bitbucket.org/ogreaddons/hydrax
 
-ogre-procedural
+cl-ocean https://github.com/sanguinariojoe/hydrocl
 
-SPH-cuda( snow demo on github )
+caelum https://github.com/OGRECave/ogre-caelum
 
-Particle Universe
+scape terrain editor https://github.com/OGRECave/scape
 
-ogreVox
+forests https://github.com/OGRECave/ogre-pagedgeometry
 
+ogre-procedural https://github.com/OGRECave/ogre-procedural
 
+ogre SPH-cuda https://bitbucket.org/ogreaddons/gpusphsim
+
+Particle Universe http://wiki.ogre3d.org/Particle+Universe+plugin
+
+ogreVox https://github.com/holocronweaver/OgreVox
+
+meshMagic https://bitbucket.org/ogreaddons/meshmagick
 
 GUI
 ---------------------
-myGUI
+myGUI http://mygui.info
 
-CEGUI
+CEGUI http://cegui.org.uk
 
 import/export
 -----------------------
-blender2ogre
+blender2ogre https://github.com/OGRECave/blender2ogre
 
-gltf
+gltf https://github.com/Ybalrid/Ogre_glTF
 
-assimp-ogre
+assimp-ogre https://github.com/OGRECave/ogre-assimp
 
-fxfbx-ogre
+fbx-ogre https://github.com/Anomalous-Software/fxogrefbx
 
 game engines
 -------------------------------
