@@ -87,6 +87,8 @@ skyx- volumatric clouds with day/night cycle https://bitbucket.org/ogreaddons/sk
 
 hydrax- realistic water/ocean https://bitbucket.org/ogreaddons/hydrax
 
+OgreOcean- ogre2.1 photo-real ocean waves https://github.com/yoyTeam/OgreOcean
+
 cl-ocean- fast ocean implemntation using opencl https://github.com/sanguinariojoe/hydrocl
 
 caelum- calanderic sky system with athmospheric effects https://github.com/OGRECave/ogre-caelum
