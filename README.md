@@ -1,5 +1,5 @@
 # Awsome-OGRE3D
-A curated list of awsome stuff( mostly open-source ) that still works with the help of OGRE3D
+A curated list of awsome open-source stuff that still works with the help of OGRE3D rendering engine.
 
 as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
 
@@ -7,101 +7,99 @@ i'm just starting with this so you're welcome to fork and edit( more info can be
 
 Simulation
 ----------------------
-ros http://www.ros.org
+ros- robot operating system: http://www.ros.org
 
-gazebo http://gazebosim.org
+gazebo- robot simulation http://gazebosim.org
 
-rigs of rods https://www.rigsofrods.org/
+rigs of rods- vehicle simulator https://www.rigsofrods.org/
 
 cfmmoc- planetary terrain rendering lib( google earth look alike ): https://github.com/cfmmoc/cfmmoc
 
 
 Animation
 --------------------------
-frag-motion www.fragmosoft.com/
+smartbody- USC's advanced character animation library http://smartbody.ict.usc.edu
 
-smartbody http://smartbody.ict.usc.edu
+ARIA-VALUSPA- Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects http://aria-agent.eu
 
-ARIA-VALUSPA http://aria-agent.eu
-
-faceFX https://facefx.com/
-
-techno-freak animation blend nodes -https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito
+techno-freak's animation blend nodes editor-https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito
 
 
-Games
+Games and virtual world
 -----------------------------
-stunt rally https://stuntrally.tuxfamily.org/
+stunt rally- https://stuntrally.tuxfamily.org/
 
-Worldforge https://www.worldforge.org/
+Worldforge- create your own virtual world https://www.worldforge.org/
 
-amge https://github.com/cookgreen/AMGE
+amge- Open Source Role-Play Game https://github.com/cookgreen/AMGE
 
-MyneCraft https://github.com/David-Parker/MyneCraft
+MyneCraft- minecraft look alike https://github.com/David-Parker/MyneCraft
 
 medical apps
 --------------------------------------------------
-Eidolon https://github.com/ericspod/Eidolon
+Eidolon- Biomedical Visualization and Analysis Framework https://github.com/ericspod/Eidolon
 
-sight https://github.com/IRCAD-IHU/sight
+sight- Surgical Image Guidance and Healthcare Toolkit https://github.com/IRCAD-IHU/sight
 
 Editors/viewers/visualization
 ------------------------------
-ogitor https://bitbucket.org/ogitor/ogitor 
+ogitor- Ogre's unofficialy 'official' scene editor: https://bitbucket.org/ogitor/ogitor 
 
-openSpace3d www.openspace3d.com/
+openSpace3d- top-tire Virtual reality application creation tool 'for all creative minds' www.openspace3d.com/
 
-apertusvr http://apertusvr.org
+apertusVR- honstly i did'nt get the gist of it but it look very proffesional (-: http://apertusvr.org
 
 Magus - an editor for creating ogre based editors: https://github.com/spookyboo/Magus
 
-polymorph https://polymorph.cool
+HLMS editor- ogre2.1 mesh viewer/converter and PBR material node based editor
 
-Scythe Physics Editor https://sourceforge.net/projects/physicseditor/
+polymorph- ogre experimental editor targeting the creative community https://polymorph.cool
 
-dergo https://bitbucket.org/dark_sylinc/dergo-blender
+Scythe- Physics Editor https://sourceforge.net/projects/physicseditor/
 
-Frapper https://sourceforge.net/projects/frapper/
+dergo- ogre-blender live interop https://bitbucket.org/dark_sylinc/dergo-blender
 
-Spacescape http://alexcpeterson.com/spacescape/
+Frapper- the Filmakademie framework, features a node based editor with plugins https://sourceforge.net/projects/frapper/
 
-Artifex Terra www.artifexterra.com/
+Spacescape- a free tool for creating space skyboxes with stars and nebulas http://alexcpeterson.com/spacescape/
 
-particle-universe https://github.com/spookyboo/particle-universe-editor
+Artifex Terra- alternative scene/terrain editor www.artifexterra.com/
 
-mesh viewer https://github.com/OGRECave/ogre-meshviewer
+particle-universe- alternative particle system with an editor https://github.com/spookyboo/particle-universe-editor
+
+mesh viewer- a light-weight ogre mesh viewer in python https://github.com/OGRECave/ogre-meshviewer
 
 
 
 PLUGINS
 ------------------------------
-bullet https://bitbucket.org/alexeyknyshev/ogrebullet
+bullet- 'bullet physics' library integration https://bitbucket.org/alexeyknyshev/ogrebullet
 
 physx
 
 newton
 
-recast/detour https://bitbucket.org/ogreaddons/ogrerecast and https://bitbucket.org/ogreaddons/ogrecrowd
+recast/detour- navMesh extraction, path finding and steering agents https://bitbucket.org/ogreaddons/ogrerecast and https://bitbucket.org/ogreaddons/ogrecrowd
 
-ccs-camera manager https://bitbucket.org/ogreaddons/ogre-ccs
+ccs-camera manager- a camera control system plugin for Ogre https://bitbucket.org/ogreaddons/ogre-ccs
 
-skyx https://bitbucket.org/ogreaddons/skyx
+skyx- volumatric clouds with day/night cycle https://bitbucket.org/ogreaddons/skyx
 
-hydrax https://bitbucket.org/ogreaddons/hydrax
+hydrax- realistic water/ocean https://bitbucket.org/ogreaddons/hydrax
 
-cl-ocean https://github.com/sanguinariojoe/hydrocl
+cl-ocean- fast ocean implemntation using opencl https://github.com/sanguinariojoe/hydrocl
 
-caelum https://github.com/OGRECave/ogre-caelum
+caelum- calanderic sky system with athmospheric effects https://github.com/OGRECave/ogre-caelum
 
-scape terrain editor https://github.com/OGRECave/scape
+scape terrain editor- a fast gpu based terrain editor https://github.com/OGRECave/scape
 
-forests https://github.com/OGRECave/ogre-pagedgeometry
+pagedgeometry-fast rendering of massive amounts of meshes( e.g forest ) https://github.com/OGRECave/ogre-pagedgeometry
 
-ogre-procedural https://github.com/OGRECave/ogre-procedural
+ogre-procedural-  procedural geometry library for Ogre3D https://github.com/OGRECave/ogre-procedural
 
-ogre SPH-cuda https://bitbucket.org/ogreaddons/gpusphsim
+gpusphsim- real-time snow avalanche simulator( ogre+cuda )- https://bitbucket.org/ogreaddons/gpusphsim
 
-Particle Universe http://wiki.ogre3d.org/Particle+Universe+plugin
+Particle Universe- an alternative patricles library http://wiki.ogre3d.org/Particle+Universe+plugin
 
 ogreVox https://github.com/holocronweaver/OgreVox
 
@@ -134,9 +132,9 @@ engine https://github.com/gsage/engine
 commercial game engines
 ----------------------------------------------------------
 neo-axis
-
 skyline
-
+faceFX https://facefx.com/
+fragMotion www.fragmosoft.com/
 
 
 
