@@ -35,6 +35,8 @@ amge- Open Source Role-Play Game https://github.com/cookgreen/AMGE
 
 MyneCraft- minecraft look alike https://github.com/David-Parker/MyneCraft
 
+AnimalsAndGods- dark sci-fi experimental adventure videogame https://github.com/Fixtone/AnimalsAndGods
+
 medical apps
 --------------------------------------------------
 Eidolon- Biomedical Visualization and Analysis Framework https://github.com/ericspod/Eidolon
