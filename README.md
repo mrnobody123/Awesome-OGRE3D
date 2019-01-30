@@ -77,9 +77,11 @@ PLUGINS
 ------------------------------
 bullet- 'bullet physics' library integration https://bitbucket.org/alexeyknyshev/ogrebullet
 
-physx
+physx- nvidia physx library integration https://github.com/betajaen/nxogre
 
-newton
+newton dynamics- physics library https://github.com/rastullahs-lockenpracht/ogrenewt
+
+ODE -open dynamics engine http://tuan.kuranes.free.fr/Ogre.html#OgreOde
 
 particle-fluids- Screen space fluid rendering with Ogre and Nvidia PhysX https://github.com/bwasty/particle-fluids
 
@@ -129,11 +131,17 @@ fbx-ogre https://github.com/Anomalous-Software/fxogrefbx
 
 game engines
 -------------------------------
+gameKit- cross-platform 3D game engine around Lua, Bullet, .blend files https://github.com/gamekit-developers/gamekit
+
+openMW- open-world RPG game engine that supports playing Morrowind. https://github.com/OpenMW/openmw/tree/openmw-36
+version 36 is the last version to use ogre( in version 37 OGRE was replaced by OSG )
+
 nowa engine https://sourceforge.net/projects/nowa-engine/
 
 frankE https://github.com/devxkh/FrankE
 
 engine https://github.com/gsage/engine
+
 
 commercial game engines
 ----------------------------------------------------------
