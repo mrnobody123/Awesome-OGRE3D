@@ -35,7 +35,7 @@ amge- Open Source Role-Play Game https://github.com/cookgreen/AMGE
 
 MyneCraft- minecraft look alike https://github.com/David-Parker/MyneCraft
 
-AnimalsAndGods- dark sci-fi experimental adventure videogame https://github.com/Fixtone/AnimalsAndGods
+AnimalsAndGods- dark sci-fi experimental adventure videogame https://github.com/Fixtone/AnimalsAndGods/tree/Alpha
 
 medical apps
 --------------------------------------------------
