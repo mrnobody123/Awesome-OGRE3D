@@ -109,9 +109,9 @@ gpusphsim- real-time snow avalanche simulator( ogre+cuda )- https://bitbucket.or
 
 Particle Universe- an alternative patricles library http://wiki.ogre3d.org/Particle+Universe+plugin
 
-ogreVox https://github.com/holocronweaver/OgreVox
+ogreVox- PolyVox voxel rendering library integration - https://github.com/holocronweaver/OgreVox
 
-meshMagic https://github.com/blakharaz/meshmagick
+meshMagic- ogre mesh manipulation and optimization library https://github.com/blakharaz/meshmagick
 
 GUI
 ---------------------
