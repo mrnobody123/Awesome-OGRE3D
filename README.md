@@ -49,6 +49,8 @@ openSpace3d- top-tire Virtual reality application creation tool 'for all creativ
 
 apertusVR- honstly i did'nt get the gist of it but it look very proffesional (-: http://apertusvr.org
 
+Annwvyn- C++ Open Source designed-for-VR game engine and application developement framework https://www.annwvyn.org/
+
 Magus - an editor for creating ogre based editors: https://github.com/spookyboo/Magus
 
 HLMS editor- ogre2.1 mesh viewer/converter and PBR material node based editor
@@ -78,6 +80,8 @@ bullet- 'bullet physics' library integration https://bitbucket.org/alexeyknyshev
 physx
 
 newton
+
+particle-fluids- Screen space fluid rendering with Ogre and Nvidia PhysX https://github.com/bwasty/particle-fluids
 
 recast/detour- navMesh extraction, path finding and steering agents https://bitbucket.org/ogreaddons/ogrerecast and https://bitbucket.org/ogreaddons/ogrecrowd
 
