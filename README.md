@@ -49,7 +49,7 @@ openSpace3d- top-tire Virtual reality application creation tool 'for all creativ
 
 apertusVR- honstly i did'nt get the gist of it but it look very proffesional (-: http://apertusvr.org
 
-Annwvyn- C++ Open Source designed-for-VR game engine and application developement framework https://www.annwvyn.org/
+Annwvyn- VR game engine and application developement framework https://www.annwvyn.org/
 
 Magus - an editor for creating ogre based editors: https://github.com/spookyboo/Magus
 
