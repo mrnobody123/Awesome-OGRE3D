@@ -133,8 +133,8 @@ game engines
 -------------------------------
 gameKit- cross-platform 3D game engine around Lua, Bullet, .blend files https://github.com/gamekit-developers/gamekit
 
-openMW- open-world RPG game engine that supports playing Morrowind https://github.com/OpenMW/openmw/tree/openmw-36
-version 36 is the last version to use ogre( in version 37 OGRE was replaced by OSG )
+openMW- open-world RPG game engine that supports playing Morrowind
+https://github.com/OpenMW/openmw/tree/openmw-36 is the last version to use ogre( later replaced by OSG )
 
 nowa engine https://sourceforge.net/projects/nowa-engine/
 
