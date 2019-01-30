@@ -121,6 +121,10 @@ ogre-ffmpeg https://github.com/galek/ogre-ffmpeg-videoplayer https://github.com/
 
 ogre-cef-  offscreen web-rendering with cef3( chromium browser ) and ogre3d https://github.com/qwertzui11/cef_osr
 
+ogrePlanet- TODO..
+
+galaxyEngine- TODO..
+
 GUI
 ---------------------
 myGUI http://mygui.info
