@@ -115,6 +115,12 @@ ogreVox- PolyVox voxel rendering library integration - https://github.com/holocr
 
 meshMagic- ogre mesh manipulation and optimization library https://github.com/blakharaz/meshmagick
 
+ogre-theora- Ogre3D interface for theora video playback https://github.com/OGRECave/ogre-video
+
+ogre-ffmpeg https://github.com/galek/ogre-ffmpeg-videoplayer https://github.com/TheSHEEEP/OgreVideoPlugin
+
+ogre-cef-  offscreen web-rendering with cef3( chromium browser ) and ogre3d https://github.com/qwertzui11/cef_osr
+
 GUI
 ---------------------
 myGUI http://mygui.info
