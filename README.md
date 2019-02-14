@@ -140,7 +140,7 @@ GUI
 import/export
 -----------------------
 [blender2ogre](https://github.com/OGRECave/blender2ogre)
-engine and editor 
+
 [gltf](https://github.com/Ybalrid/Ogre_glTF)
 
 [assimp-ogre](https://github.com/OGRECave/ogre-assimp)
