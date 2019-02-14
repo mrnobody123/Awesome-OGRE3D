@@ -22,9 +22,9 @@ Animation and modeling
 
 [smartbody](http://smartbody.ict.usc.edu)- USC's advanced character animation library 
 
-[ARIA-VALUSPA](http://smartbody.ict.usc.edu)- Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects http://aria-agent.eu
+[ARIA-VALUSPA](http://aria-agent.eu)- Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects 
 
-[techno-freak](http://smartbody.ict.usc.edu)'s animation blend nodes editor-https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito
+[techno-freak](https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito)'s animation blend nodes editor
 
 
 Games and virtual world
