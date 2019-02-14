@@ -89,9 +89,9 @@ PLUGINS
 
 [particle-fluids](https://github.com/bwasty/particle-fluids)- Screen space fluid rendering with Ogre and Nvidia PhysX 
 
-recast/detour(https://bitbucket.org/ogreaddons/ogrerecast)- navMesh extraction, path finding and steering agents integration
+[recast/detour](https://bitbucket.org/ogreaddons/ogrerecast)- navMesh extraction, path finding 
 
-[ogreCrowd](https://bitbucket.org/ogreaddons/ogrecrowd) crowd simulation based on recast/detour 
+[ogreCrowd](https://bitbucket.org/ogreaddons/ogrecrowd) crowd simulation based on recast/detour and steering agents library integration 
 
 [ccs-camera manager](https://bitbucket.org/ogreaddons/ogre-ccs)- a camera control system plugin for Ogre 
 
