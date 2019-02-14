@@ -9,119 +9,123 @@ Simulation
 ----------------------
 [ros](http://www.ros.org)- robot operating system: 
 
-gazebo- robot simulation http://gazebosim.org
+[gazebo](http://gazebosim.org)- robot simulation 
 
-rigs of rods- vehicle simulator https://www.rigsofrods.org/
+[rigs of rods](https://www.rigsofrods.org)- vehicle simulator base on softBody physics 
 
-cfmmoc- planetary terrain rendering lib( google earth look alike ): https://github.com/cfmmoc/cfmmoc
+[cfmmoc](https://github.com/cfmmoc/cfmmoc) planetary terrain rendering lib( google earth look alike )
 
 
-Animation
+Animation and modeling
 --------------------------
-smartbody- USC's advanced character animation library http://smartbody.ict.usc.edu
+[makeHuman](http://www.makehumancommunity.org) a complete human charcter editor based on a real-data using a parametric model 
 
-ARIA-VALUSPA- Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects http://aria-agent.eu
+[smartbody](http://smartbody.ict.usc.edu)- USC's advanced character animation library 
 
-techno-freak's animation blend nodes editor-https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito
+[ARIA-VALUSPA](http://smartbody.ict.usc.edu)- Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects http://aria-agent.eu
+
+[techno-freak](http://smartbody.ict.usc.edu)'s animation blend nodes editor-https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito
 
 
 Games and virtual world
 -----------------------------
-stunt rally- https://stuntrally.tuxfamily.org/
+[stunt rally](https://stuntrally.tuxfamily.org/)- Car racing game, using OGRE and VDrift with Track Editor 
 
-Worldforge- create your own virtual world https://www.worldforge.org/
+[Worldforge](https://www.worldforge.org/)- create your own virtual world 
 
-amge- Open Source Role-Play Game https://github.com/cookgreen/AMGE
+[amge](https://github.com/cookgreen/AMGE)- Open Source Role-Play Game 
 
-MyneCraft- minecraft look alike https://github.com/David-Parker/MyneCraft
+[MyneCraft](https://github.com/David-Parker/MyneCraft)- minecraft look alike 
 
-AnimalsAndGods- dark sci-fi experimental adventure videogame https://github.com/Fixtone/AnimalsAndGods/tree/Alpha
+[AnimalsAndGods](https://github.com/Fixtone/AnimalsAndGods/tree/Alpha)- experimental dark sci-fi adventure videogame 
 
 medical apps
 --------------------------------------------------
-Eidolon- Biomedical Visualization and Analysis Framework https://github.com/ericspod/Eidolon
+[Eidolon](https://github.com/ericspod/Eidolon)- Biomedical Visualization and Analysis Framework 
 
-sight- Surgical Image Guidance and Healthcare Toolkit https://github.com/IRCAD-IHU/sight
+[sight](https://github.com/IRCAD-IHU/sight)- Surgical Image Guidance and Healthcare Toolkit 
 
 Editors/viewers/visualization
 ------------------------------
-ogitor- Ogre's unofficialy 'official' scene editor: https://bitbucket.org/ogitor/ogitor 
+[ogitor](https://bitbucket.org/ogitor/ogitor)- Ogre's unofficialy 'official' scene editor:  
 
-openSpace3d- top-tire Virtual reality application creation tool 'for all creative minds' www.openspace3d.com/
+[openSpace3d](http://www.openspace3d.com)- top-tire Virtual reality application creation tool 'for all creative minds' 
 
-apertusVR- honstly i did'nt get the gist of it but it look very proffesional (-: http://apertusvr.org
+[apertusVR](http://apertusvr.org)- open source AR/VR engine for science education and industry  
 
-Annwvyn- VR game engine and application developement framework https://www.annwvyn.org/
+[Annwvyn](https://www.annwvyn.org)- VR game engine and application developement framework 
 
-Magus - an editor for creating ogre based editors: https://github.com/spookyboo/Magus
+[Magus](https://github.com/spookyboo/Magus) - an editor for creating ogre based editors: 
 
-HLMS editor- ogre2.1 mesh viewer/converter and PBR material node based editor
+[HLMS editor]- ogre2.1 mesh viewer/converter and PBR material node based editor
 
-polymorph- ogre experimental editor targeting the creative community https://polymorph.cool
+[polymorph](https://polymorph.cool)- ogre experimental editor targeting the creative community 
 
-Scythe- Physics Editor https://sourceforge.net/projects/physicseditor/
+[Scythe](https://sourceforge.net/projects/physicseditor)- Physics Editor 
 
-dergo- ogre-blender live interop https://bitbucket.org/dark_sylinc/dergo-blender
+[dergo](https://bitbucket.org/dark_sylinc/dergo-blender)- ogre-blender live interop 
 
-Frapper- the Filmakademie framework, features a node based editor with plugins https://sourceforge.net/projects/frapper/
+[Frapper](https://sourceforge.net/projects/frapper)- the Filmakademie framework, features a node based editor with plugins 
 
-Spacescape- a free tool for creating space skyboxes with stars and nebulas http://alexcpeterson.com/spacescape/
+[Spacescape](http://alexcpeterson.com/spacescape/)- a free tool for creating space skyboxes with stars and nebulas 
 
-Artifex Terra- alternative scene/terrain editor www.artifexterra.com/
+[Artifex Terra](www.artifexterra.com/)- alternative scene/terrain editor 
 
-particle-universe- alternative particle system with an editor https://github.com/spookyboo/particle-universe-editor
+[particle-universe](https://github.com/spookyboo/particle-universe-editor)- alternative particle system with an editor 
 
-mesh viewer- a light-weight ogre mesh viewer in python https://github.com/OGRECave/ogre-meshviewer
+[mesh viewer](https://github.com/OGRECave/ogre-meshviewer)- a light-weight ogre mesh viewer in python 
 
 
 
 PLUGINS
 ------------------------------
-bullet- 'bullet physics' library integration https://bitbucket.org/alexeyknyshev/ogrebullet
+[bullet](https://bitbucket.org/alexeyknyshev/ogrebullet)- 'bullet physics' library integration 
 
-physx- nvidia physx library integration https://github.com/betajaen/nxogre
+[NxOgre](https://github.com/betajaen/nxogre)- nvidia physx library integration 
 
-newton dynamics- physics library https://github.com/rastullahs-lockenpracht/ogrenewt
+[newton dynamics](https://github.com/rastullahs-lockenpracht/ogrenewt)- newton physics library integration 
 
-ODE -open dynamics engine http://tuan.kuranes.free.fr/Ogre.html#OgreOde
+[ODE](http://tuan.kuranes.free.fr/Ogre.html#OgreOde) -open dynamics engine plugin
 
-particle-fluids- Screen space fluid rendering with Ogre and Nvidia PhysX https://github.com/bwasty/particle-fluids
+[particle-fluids](https://github.com/bwasty/particle-fluids)- Screen space fluid rendering with Ogre and Nvidia PhysX 
 
-recast/detour- navMesh extraction, path finding and steering agents https://bitbucket.org/ogreaddons/ogrerecast and https://bitbucket.org/ogreaddons/ogrecrowd
+recast/detour(https://bitbucket.org/ogreaddons/ogrerecast)- navMesh extraction, path finding and steering agents integration
 
-ccs-camera manager- a camera control system plugin for Ogre https://bitbucket.org/ogreaddons/ogre-ccs
+[ogreCrowd](https://bitbucket.org/ogreaddons/ogrecrowd) crowd simulation based on recast/detour 
 
-skyx- volumatric clouds with day/night cycle https://bitbucket.org/ogreaddons/skyx
+[ccs-camera manager](https://bitbucket.org/ogreaddons/ogre-ccs)- a camera control system plugin for Ogre 
 
-hydrax- realistic water/ocean https://bitbucket.org/ogreaddons/hydrax
+[skyx](https://bitbucket.org/ogreaddons/skyx)- volumatric clouds with day/night cycle 
 
-OgreOcean- ogre2.1 photo-real ocean waves https://github.com/yoyTeam/OgreOcean
+[hydrax](https://bitbucket.org/ogreaddons/hydrax)- realistic water/ocean 
 
-cl-ocean- fast ocean implemntation using opencl https://github.com/sanguinariojoe/hydrocl
+[OgreOcean](https://github.com/yoyTeam/OgreOcean)- ogre2.1 photo-real ocean waves 
 
-caelum- calanderic sky system with athmospheric effects https://github.com/OGRECave/ogre-caelum
+[cl-ocean](https://github.com/sanguinariojoe/hydrocl)- fast ocean implemntation using opencl 
 
-scape terrain editor- a fast gpu based terrain editor https://github.com/OGRECave/scape
+[caelum](https://github.com/OGRECave/ogre-caelum)- calanderic sky system with athmospheric effects 
 
-pagedgeometry-fast rendering of massive amounts of meshes( e.g forest ) https://github.com/OGRECave/ogre-pagedgeometry
+[scape terrain editor](https://github.com/OGRECave/scape)- a fast gpu based terrain editor 
 
-ogre-procedural-  procedural geometry library for Ogre3D https://github.com/OGRECave/ogre-procedural
+[pagedgeometry](https://github.com/OGRECave/ogre-pagedgeometry)-fast rendering of massive amounts of meshes( e.g forest ) 
 
-gpusphsim- real-time snow avalanche simulator( ogre+cuda )- https://bitbucket.org/ogreaddons/gpusphsim
+[ogre-procedural](https://github.com/OGRECave/ogre-procedural)-  procedural geometry library for Ogre3D 
 
-Particle Universe- an alternative patricles library http://wiki.ogre3d.org/Particle+Universe+plugin
+[gpusphsim](https://bitbucket.org/ogreaddons/gpusphsim)- real-time snow avalanche simulator( ogre+cuda )- 
 
-ogreVox- PolyVox voxel rendering library integration - https://github.com/holocronweaver/OgreVox
+[Particle Universe](http://wiki.ogre3d.org/Particle+Universe+plugin)- an alternative patricles library 
 
-meshMagic- ogre mesh manipulation and optimization library https://github.com/blakharaz/meshmagick
+[ogreVox](https://github.com/holocronweaver/OgreVox)- PolyVox voxel rendering library integration - 
 
-ogre-theora- Ogre3D interface for theora video playback https://github.com/OGRECave/ogre-video
+[meshMagic](https://github.com/blakharaz/meshmagick)- ogre mesh manipulation and optimization library 
 
-ogre-ffmpeg https://github.com/galek/ogre-ffmpeg-videoplayer https://github.com/TheSHEEEP/OgreVideoPlugin
+[ogre-theora](https://github.com/OGRECave/ogre-video)- Ogre3D interface for theora video playback 
 
-ogre-cef-  offscreen web-rendering with cef3( chromium browser ) and ogre3d https://github.com/qwertzui11/cef_osr
+[ogre-ffmpeg](https://github.com/TheSHEEEP/OgreVideoPlugin) and https://github.com/galek/ogre-ffmpeg-videoplayer 
 
-new MOC- minimal ogre collision library https://bitbucket.org/ogreaddons/new-minimal-ogre-collision
+[ogre-cef](https://github.com/qwertzui11/cef_osr)-  offscreen web-rendering with cef3( chromium browser ) and ogre3d 
+
+[new MOC](https://bitbucket.org/ogreaddons/new-minimal-ogre-collision)- minimal ogre collision library 
 
 ogrePlanet- TODO..
 
@@ -129,32 +133,32 @@ galaxyEngine- TODO..
 
 GUI
 ---------------------
-myGUI http://mygui.info
+[myGUI](http://mygui.info)
 
-CEGUI http://cegui.org.uk
+[CEGUI](http://cegui.org.uk)
 
 import/export
 -----------------------
-blender2ogre https://github.com/OGRECave/blender2ogre
+[blender2ogre](https://github.com/OGRECave/blender2ogre)
+engine and editor 
+[gltf](https://github.com/Ybalrid/Ogre_glTF)
 
-gltf https://github.com/Ybalrid/Ogre_glTF
+[assimp-ogre](https://github.com/OGRECave/ogre-assimp)
 
-assimp-ogre https://github.com/OGRECave/ogre-assimp
-
-fbx-ogre https://github.com/Anomalous-Software/fxogrefbx
+[fbx-ogre](https://github.com/Anomalous-Software/fxogrefbx)
 
 game engines
 -------------------------------
-gameKit- cross-platform 3D game engine around Lua, Bullet, .blend files https://github.com/gamekit-developers/gamekit
+[gameKit](https://github.com/gamekit-developers/gamekit)- cross-platform 3D game engine around Lua, Bullet, .blend files 
 
-openMW- open-world RPG game engine that supports playing Morrowind
-https://github.com/OpenMW/openmw/tree/openmw-36 is the last version to use ogre( later replaced by OSG )
+[openMW](https://github.com/OpenMW/openmw/tree/openmw-36)- open-world RPG game engine that supports playing Morrowind
+ version 36 is the last version to use ogre( later replaced by OSG )
 
-nowa engine https://sourceforge.net/projects/nowa-engine/
+[nowa engine](https://sourceforge.net/projects/nowa-engine/) based on ogre 2.1 advanced renderer with full newton dynamics library support
 
-frankE https://github.com/devxkh/FrankE
+[frankE](https://github.com/devxkh/FrankE) based on ogre 2.1
 
-engine https://github.com/gsage/engine
+[engine](https://github.com/gsage/engine)
 
 
 commercial game engines
