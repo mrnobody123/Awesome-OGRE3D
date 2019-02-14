@@ -57,7 +57,7 @@ Editors/viewers/visualization
 
 [Magus](https://github.com/spookyboo/Magus) - an editor for creating ogre based editors: 
 
-[HLMS editor]- ogre2.1 mesh viewer/converter and PBR material node based editor
+[HLMS editor](https://github.com/spookyboo/HLMSEditor)- ogre2.1 mesh viewer/converter and PBR material node based editor
 
 [polymorph](https://polymorph.cool)- ogre experimental editor targeting the creative community 
 
