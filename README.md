@@ -7,7 +7,7 @@ i'm just starting with this so you're welcome to fork and edit( more info can be
 
 Simulation
 ----------------------
-ros- robot operating system: http://www.ros.org
+[ros](http://www.ros.org)- robot operating system: 
 
 gazebo- robot simulation http://gazebosim.org
 
