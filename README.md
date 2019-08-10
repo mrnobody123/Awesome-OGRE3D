@@ -1,5 +1,5 @@
 # Awsome-OGRE3D
-A curated list of awsome open-source stuff that still works with the help of OGRE3D rendering engine.
+A curated list of awsome open-source projects and plugins that are build on top of the OGRE3D rendering engine.
 
 as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
 
@@ -44,6 +44,8 @@ medical apps
 [Eidolon](https://github.com/ericspod/Eidolon)- Biomedical Visualization and Analysis Framework 
 
 [sight](https://github.com/IRCAD-IHU/sight)- Surgical Image Guidance and Healthcare Toolkit 
+
+[Anomalous Medical](https://github.com/AnomalousMedical/Medical) a 3d human anatomy simulation enviroment
 
 Editors/viewers/visualization
 ------------------------------
@@ -161,15 +163,12 @@ game engines
 [engine](https://github.com/gsage/engine)
 
 
-commercial game engines
+commercial/freeware
 ----------------------------------------------------------
-neo-axis
 
-skyline
+[faceFX](https://facefx.com) -commercial lipsync software, figured its ok to advertise since they maintain fxOgreFBX plugin
 
-faceFX https://facefx.com/
-
-fragMotion www.fragmosoft.com/
+[fragMotion](www.fragmosoft.com) freeware 3d modeling and animation software 
 
 
 
