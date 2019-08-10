@@ -1,4 +1,4 @@
-# Awsome-OGRE3D
+# Awesome-OGRE3D
 A curated list of awsome open-source projects and plugins that are build on top of the OGRE3D rendering engine.
 
 as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
@@ -45,7 +45,7 @@ medical apps
 
 [sight](https://github.com/IRCAD-IHU/sight)- Surgical Image Guidance and Healthcare Toolkit 
 
-[Anomalous Medical](https://github.com/AnomalousMedical/Medical) a 3d human anatomy simulation enviroment
+[Anomalous Medical](https://github.com/AnomalousMedical/Medical) a 3d human anatomy simulation environment
 
 Editors/viewers/visualization
 ------------------------------
