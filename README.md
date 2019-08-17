@@ -1,4 +1,5 @@
-[# Awesome-OGRE3D](https://www.ogre3d.org)
+#Awesome-[OGRE3D](https://www.ogre3d.org)
+
 A curated list of awesome open-source projects and plugins that are build on top of the OGRE3D rendering engine.
 
 as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
