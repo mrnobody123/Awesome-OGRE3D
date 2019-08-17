@@ -151,6 +151,12 @@ GUI
 
 [Qt integration](https://github.com/search?q=qt+ogre) qt is probably the most popular gui framework among ogre3d users 
 
+[libRocket](https://github.com/libRocket/libRocket) libRocket - The HTML/CSS User Interface library
+
+[SDL2 integration](https://www.libsdl.org) ogre3d built-in examples are integrated with SDL2...code is in the ogre repository
+
+[ogre-imGUI](https://github.com/OGRECave/ogre-imgui) Bloat-free Immediate Mode Graphical User interface for C++
+
 import/export
 -----------------------
 [blender2ogre](https://github.com/OGRECave/blender2ogre)
@@ -172,15 +178,15 @@ game engines
 
 [frankE](https://github.com/devxkh/FrankE) based on ogre 2.1
 
-[engine](https://github.com/gsage/engine)
+[engine](https://github.com/gsage/engine) a promising cross-renderer game-engine/Editor currently supports ogre 1.9/2.1
 
 
 commercial/freeware
 ----------------------------------------------------------
 
-[faceFX](https://facefx.com) -commercial lipsync software, figured its ok to advertise since they maintain fxOgreFBX plugin
+[faceFX](https://facefx.com) -commercial lipsync software, figured its ok to advertise since they maintained fxOgreFBX plugin
 
-[fragMotion](www.fragmosoft.com) freeware 3d modeling and animation software 
+[fragMotion](www.fragmosoft.com) 3d modeling and animation free-ware 
 
 
 
