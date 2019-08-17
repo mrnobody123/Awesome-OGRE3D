@@ -65,7 +65,7 @@ Editors/viewers/visualization
 
 [HLMS editor](https://github.com/spookyboo/HLMSEditor)- ogre2.1 mesh viewer/converter and PBR material node based editor
 
-[polymorph](https://polymorph.cool)- ogre experimental editor targeting the creative community 
+[polymorph](https://polymorph.cool)- ogre experimental editor targeting the creative community( lately deserted to godot engine )
 
 [Scythe](https://sourceforge.net/projects/physicseditor)- Physics Editor 
 
