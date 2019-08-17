@@ -7,7 +7,7 @@ while OGRE3D is "just a rendering engine"( as opposed to a full game engine ) th
 
 as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
 
-i'm just starting with this so you're welcomed to fork and edit( more info can be found at www.wiki.ogre3d.org )
+ogre users are welcomed to fork and edit( more info can be found at www.wiki.ogre3d.org ) 
 
 Simulation
 ----------------------
