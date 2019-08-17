@@ -1,4 +1,4 @@
-# Awesome-OGRE3D
+[# Awesome-OGRE3D](https://www.ogre3d.org)
 A curated list of awesome open-source projects and plugins that are build on top of the OGRE3D rendering engine.
 
 as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
@@ -38,6 +38,8 @@ Games and virtual world
 [MyneCraft](https://github.com/David-Parker/MyneCraft)- minecraft look alike 
 
 [AnimalsAndGods](https://github.com/Fixtone/AnimalsAndGods/tree/Alpha)- experimental dark sci-fi adventure videogame 
+
+[Vertigo](http://www.vertigo-game.com) GPL'ed source code- https://github.com/amireh/Vertigo
 
 medical apps
 --------------------------------------------------
@@ -125,19 +127,27 @@ PLUGINS
 
 [ogre-ffmpeg](https://github.com/TheSHEEEP/OgreVideoPlugin) and https://github.com/galek/ogre-ffmpeg-videoplayer 
 
-[ogre-cef](https://github.com/qwertzui11/cef_osr)-  offscreen web-rendering with cef3( chromium browser ) and ogre3d 
-
 [new MOC](https://bitbucket.org/ogreaddons/new-minimal-ogre-collision)- minimal ogre collision library 
 
-ogrePlanet- TODO..
+[OgreOggSound](https://sourceforge.net/projects/ogreoggsound/) play wav/ogg files in 3D using openAL with full ogre integration
 
-galaxyEngine- TODO..
+[ogrePlanet](https://bitbucket.org/lingfors/ogreplanet/src/default/) planet rendering library
+
+[PlanetGenerator](http://giogix2.github.io/PlanetGenerator/) ogre based simplistic planet generatot
+
+[galaxyEngine](https://forums.ogre3d.org/viewtopic.php?t=62556) e.t phone home...
 
 GUI
 ---------------------
-[myGUI](http://mygui.info)
+[myGUI](http://mygui.info) lightweight gui rendering library with an ogre3d backend
 
-[CEGUI](http://cegui.org.uk)
+[CEGUI](http://cegui.org.uk) crazy eddie's cross-engine gui library with an ogre3d backend
+
+[Navi](https://github.com/khrona/Navi) integrate Awesomium web renderer with OGRE3D
+
+[ogre-cef](https://github.com/qwertzui11/cef_osr)-  offscreen web-rendering with cef3( chromium browser ) and ogre3d 
+
+[Qt integration](https://github.com/search?q=qt+ogre) qt is probably the most popular gui framework among ogre3d users 
 
 import/export
 -----------------------
