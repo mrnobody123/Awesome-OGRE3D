@@ -2,6 +2,8 @@
 ------------------------------------------------------------------------------------------------
 
 A curated list of awesome open-source projects and plugins that are build on top of the OGRE3D rendering engine.
+-------------------------------------------------------------------------------------
+while OGRE3D is "just a rendering engine"( as opposed to a full game engine ) the eco-system and code evolving around it through the years make it so much more than "just..."
 
 as their are probably a few hundrends of ogre based projects, i'll try to pick the most popluar/used/useful/cool
 
