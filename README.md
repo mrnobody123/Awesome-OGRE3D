@@ -77,7 +77,7 @@ Editors/viewers/visualization
 
 [Spacescape](http://alexcpeterson.com/spacescape/)- a free tool for creating space skyboxes with stars and nebulas 
 
-[Artifex Terra](www.artifexterra.com/)- alternative scene/terrain editor 
+[Artifex Terra]( http://www.artifexterra.com )- alternative scene/terrain editor 
 
 [particle-universe](https://github.com/spookyboo/particle-universe-editor)- alternative particle system with an editor 
 
@@ -191,7 +191,7 @@ commercial/freeware
 
 [faceFX](https://facefx.com) -commercial lipsync software, figured its ok to advertise since they maintained fxOgreFBX plugin
 
-[fragMotion](www.fragmosoft.com) 3d modeling and animation free-ware 
+[fragMotion](http://www.fragmosoft.com) 3d modeling and animation free-ware 
 
 
 
