@@ -88,6 +88,7 @@ Editors/viewers/visualization
 PLUGINS
 ------------------------------
 [bullet](https://bitbucket.org/alexeyknyshev/ogrebullet)- 'bullet physics' library integration 
+https://github.com/OGRECave/btogre
 
 [NxOgre](https://github.com/betajaen/nxogre)- nvidia physx library integration 
 
@@ -97,15 +98,15 @@ PLUGINS
 
 [particle-fluids](https://github.com/bwasty/particle-fluids)- Screen space fluid rendering with Ogre and Nvidia PhysX 
 
-[recast/detour](https://bitbucket.org/ogreaddons/ogrerecast)- navMesh extraction, path finding 
+[recast/detour](https://github.com/AnotherFoxGuy/OgreRecast)- navMesh extraction, path finding 
 
-[ogreCrowd](https://bitbucket.org/ogreaddons/ogrecrowd) crowd simulation based on recast/detour and steering agents library integration 
+[ogreCrowd](https://github.com/OGRECave/OgreCrowd) crowd simulation based on recast/detour and steering agents library integration 
 
-[ccs-camera manager](https://bitbucket.org/ogreaddons/ogre-ccs)- a camera control system plugin for Ogre 
+[ccs-camera manager](https://sourceforge.net/projects/ogre-ccs )- a camera control system plugin for Ogre 
 
-[skyx](https://bitbucket.org/ogreaddons/skyx)- volumatric clouds with day/night cycle 
+[skyx](https://github.com/FihlaTV/ogre_skyx)- volumatric clouds with day/night cycle 
 
-[hydrax](https://bitbucket.org/ogreaddons/hydrax)- realistic water/ocean 
+[hydrax](https://github.com/imperative/CommunityHydrax)- realistic water/ocean 
 
 [OgreOcean](https://github.com/yoyTeam/OgreOcean)- ogre2.1 photo-real ocean waves 
 
@@ -152,12 +153,14 @@ GUI
 [ogre-cef](https://github.com/qwertzui11/cef_osr)-  offscreen web-rendering with cef3( chromium browser ) and ogre3d 
 
 [Qt integration](https://github.com/search?q=qt+ogre) qt is probably the most popular gui framework among ogre3d users 
+qt integration is now featured as an out-of-the-box example app at the main branch of ogre 1.1x
 
 [libRocket](https://github.com/libRocket/libRocket) libRocket - The HTML/CSS User Interface library
 
 [SDL2 integration](https://www.libsdl.org) ogre3d built-in examples are integrated with SDL2...code is in the ogre repository
 
 [ogre-imGUI](https://github.com/OGRECave/ogre-imgui) Bloat-free Immediate Mode Graphical User interface for C++
+imgui integration is now featured as an out-of-the-box example app at the main branch of ogre 1.1x
 
 import/export
 -----------------------
