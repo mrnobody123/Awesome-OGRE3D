@@ -28,7 +28,8 @@ Animation and modeling
 
 [ARIA-VALUSPA](http://aria-agent.eu)- Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects 
 
-[techno-freak](https://bitbucket.org/ogreaddons/technofreak-animation-blend-edito)'s animation blend nodes editor
+[techno-freak](https://forums.ogre3d.org/viewtopic.php?f=11&t=45260)'s animation blend nodes editor
+[ogre 2.1 version]( https://forums.ogre3d.org/viewtopic.php?f=11&t=45260 )
 
 
 Games and virtual world
@@ -55,7 +56,7 @@ medical apps
 
 Editors/viewers/visualization
 ------------------------------
-[ogitor](https://bitbucket.org/ogitor/ogitor)- Ogre's unofficialy 'official' scene editor:  
+[ogitor](https://github.com/OGRECave/ogitor)- Ogre's unofficialy 'official' scene editor:  
 
 [openSpace3d](http://www.openspace3d.com)- top-tire Virtual reality application creation tool 'for all creative minds' 
 
@@ -71,7 +72,7 @@ Editors/viewers/visualization
 
 [Scythe](https://sourceforge.net/projects/physicseditor)- Physics Editor 
 
-[dergo](https://bitbucket.org/dark_sylinc/dergo-blender)- ogre-blender live interop 
+[dergo](https://github.com/darksylinc/dergo-blender)- ogre-blender live interop 
 
 [Frapper](https://sourceforge.net/projects/frapper)- the Filmakademie framework, features a node based editor with plugins 
 
@@ -136,7 +137,7 @@ https://github.com/OGRECave/btogre
 
 [OgreOggSound](https://sourceforge.net/projects/ogreoggsound/) play wav/ogg files in 3D using openAL with full ogre integration
 
-[ogrePlanet](https://bitbucket.org/lingfors/ogreplanet/src/default/) planet rendering library
+[ogrePlanet](https://github.com/OGRECave/ogre-planet) planet rendering library
 
 [PlanetGenerator](http://giogix2.github.io/PlanetGenerator/) ogre based simplistic planet generatot
 
