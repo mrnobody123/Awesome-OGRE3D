@@ -180,6 +180,8 @@ import/export
 
 [maya-ogre3d-exporter]( https://github.com/bitgate/maya-ogre3d-exporter )
 
+[3ds max ogre exporter]( https://github.com/OGRECave/EasyOgreExporter )
+
 game engines
 -------------------------------
 [gameKit](https://github.com/gamekit-developers/gamekit)- cross-platform 3D game engine around Lua, Bullet, .blend files 
