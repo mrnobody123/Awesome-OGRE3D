@@ -137,11 +137,15 @@ https://github.com/OGRECave/btogre
 
 [OgreOggSound](https://sourceforge.net/projects/ogreoggsound/) play wav/ogg files in 3D using openAL with full ogre integration
 
+[Ogre-audio-video]( https://github.com/OGRECave/ogre-audiovideo ) ogg-theora video plugin
+
 [ogrePlanet](https://github.com/OGRECave/ogre-planet) planet rendering library
 
 [PlanetGenerator](http://giogix2.github.io/PlanetGenerator/) ogre based simplistic planet generatot
 
 [galaxyEngine](https://forums.ogre3d.org/viewtopic.php?t=62556) e.t phone home...
+
+[ogre-gpgpu]( https://github.com/OGRECave/ogre-gpgpu ) cuda,opencl,arkit,photsynth ogre experiments 
 
 GUI
 ---------------------
@@ -172,6 +176,8 @@ import/export
 [assimp-ogre](https://github.com/OGRECave/ogre-assimp)
 
 [fbx-ogre](https://github.com/Anomalous-Software/fxogrefbx)
+
+[maya-ogre3d-exporter]( https://github.com/bitgate/maya-ogre3d-exporter )
 
 game engines
 -------------------------------
