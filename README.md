@@ -28,8 +28,9 @@ Animation and modeling
 
 [ARIA-VALUSPA](http://aria-agent.eu)- Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects 
 
-[techno-freak](https://forums.ogre3d.org/viewtopic.php?f=11&t=45260)'s animation blend nodes editor
-[ogre 2.1 version]( https://forums.ogre3d.org/viewtopic.php?f=11&t=45260 )
+[techno-freak](https://forums.ogre3d.org/viewtopic.php?f=11&t=45260) techno-freak animation blend nodes editor( ogre 1.x )
+
+[ogre 2.1 version]( https://forums.ogre3d.org/viewtopic.php?f=11&t=45260 ) techno-freak animation blend nodes editor( ogre 2.x )
 
 
 Games and virtual world
