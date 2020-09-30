@@ -182,7 +182,7 @@ import/export
 
 [3ds max ogre exporter]( https://github.com/OGRECave/EasyOgreExporter )
 
-game engines
+game engines and related tech
 -------------------------------
 [gameKit](https://github.com/gamekit-developers/gamekit)- cross-platform 3D game engine around Lua, Bullet, .blend files 
 
@@ -195,6 +195,7 @@ game engines
 
 [engine](https://github.com/gsage/engine) a promising cross-renderer game-engine/Editor currently supports ogre 1.9/2.1
 
+[https://github.com/kbengine/kbengine] easy to use thin mmo network server/client with Ogre3d support 
 
 commercial/freeware
 ----------------------------------------------------------
