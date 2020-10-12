@@ -47,6 +47,7 @@ Games and virtual world
 
 [Vertigo](http://www.vertigo-game.com) GPL'ed source code- https://github.com/amireh/Vertigo
 
+
 medical apps
 --------------------------------------------------
 [Eidolon](https://github.com/ericspod/Eidolon)- Biomedical Visualization and Analysis Framework 
@@ -188,6 +189,8 @@ game engines and related tech
 
 [openMW](https://github.com/OpenMW/openmw/tree/openmw-36)- open-world RPG game engine that supports playing Morrowind
  version 36 is the last version to use ogre( later replaced by OSG )
+
+[Grit-game engine](https://github.com/grit-engine) Open source open world streaming game engine
 
 [nowa engine](https://sourceforge.net/projects/nowa-engine/) based on ogre 2.1 advanced renderer with full newton dynamics library support
 
