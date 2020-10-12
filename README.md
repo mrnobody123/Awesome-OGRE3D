@@ -198,7 +198,7 @@ game engines and related tech
 
 [engine](https://github.com/gsage/engine) a promising cross-renderer game-engine/Editor currently supports ogre 1.9/2.1
 
-[https://github.com/kbengine/kbengine] easy to use thin mmo network server/client with Ogre3d support 
+[kbEngine](https://github.com/kbengine/kbengine) easy to use thin mmo network server/client with Ogre3d support 
 
 commercial/freeware
 ----------------------------------------------------------
